@@ -80,7 +80,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 <a href="mailto:adil.soybali@seccops.com" target="_blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" /></a>
 <a href="https://linkedin.com/in/adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="https://discord.com/channels/@AdilSoybali#0044" target="_blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://twitter.com/adilsoybali" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://twitter.com/86xm1" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://adilsoybali.com/#contact" target="_blank"><img align="center" src="https://img.shields.io/badge/adilsoybali.com-448cec?style=for-the-badge&logo=koding&logoColor=white" alt="Personal Web Site" /></a>
 </p>
 
@@ -89,7 +89,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 -   [Seccops](https://seccops.com/)
 -   [LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day/)
 -   [Zsolt Háló](https://github.com/zsolt-halo)
-
+-   [Faizan Akhtar](https://facebook.com/iamfaizanakhtar)
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/adilsoybali/Log4j-RCE-Scanner.svg?)](https://starchart.cc/adilsoybali/Log4j-RCE-Scanner)
